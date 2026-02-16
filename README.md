@@ -9,3 +9,7 @@ ppt-https://docs.google.com/presentation/d/1bIXIFQvvZultA7hXyBkTPsTBiHGcX_hz/edi
 flex_box-https://jency2924.github.io/Front-End-web/flex_box
 
 ppt-https://docs.google.com/presentation/d/1PAFWcF4NEMoOplLudJD4oVmxUBQ9zWXA/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
+
+photo- https://jency2924.github.io/Front-End-web/photo
+
+ppt-https://docs.google.com/presentation/d/1mO5ccv331I_pcjw5ODeHPUhur3nIB-Rp/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
