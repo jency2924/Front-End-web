@@ -13,3 +13,7 @@ ppt-https://docs.google.com/presentation/d/1PAFWcF4NEMoOplLudJD4oVmxUBQ9zWXA/edi
 photo- https://jency2924.github.io/Front-End-web/photo
 
 ppt-https://docs.google.com/presentation/d/1mO5ccv331I_pcjw5ODeHPUhur3nIB-Rp/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
+
+notice_board-https://jency2924.github.io/Front-End-web/notice_board
+
+ppt-https://docs.google.com/presentation/d/1Zw_CdUwOPloZ-ODVDJWydfYa27KPcJVK/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
