@@ -18,4 +18,4 @@ notice_board-https://jency2924.github.io/Front-End-web/notice_board
 
 ppt-https://docs.google.com/presentation/d/1Zw_CdUwOPloZ-ODVDJWydfYa27KPcJVK/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
 
-navigation_bar-https://jency2924.github.io/Front-End-web/navigation bar
+navigation_bar-https://jency2924.github.io/Front-End-web/navigation_bar
