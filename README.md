@@ -19,3 +19,5 @@ notice_board-https://jency2924.github.io/Front-End-web/notice_board
 ppt-https://docs.google.com/presentation/d/1Zw_CdUwOPloZ-ODVDJWydfYa27KPcJVK/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
 
 navigation_bar-https://jency2924.github.io/Front-End-web/navigation_bar
+
+ppt-https://www.canva.com/design/DAHCZoET79I/sZtc730-S6hhNsn3kjBZIA/edit?utm_content=DAHCZoET79I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
