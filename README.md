@@ -23,3 +23,5 @@ navigation_bar-https://jency2924.github.io/Front-End-web/navigation_bar
 ppt-https://www.canva.com/design/DAHCZoET79I/sZtc730-S6hhNsn3kjBZIA/edit?utm_content=DAHCZoET79I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 lola-http://127.0.0.1:5500/lola/login.html
+
+ppt-https://docs.google.com/presentation/d/1N1Dr9Oma1C91zbVsuKK6rESpuDE97C68/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
