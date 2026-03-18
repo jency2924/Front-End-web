@@ -25,3 +25,7 @@ ppt-https://www.canva.com/design/DAHCZoET79I/sZtc730-S6hhNsn3kjBZIA/edit?utm_con
 lola-http://127.0.0.1:5500/lola/login.html
 
 ppt-https://docs.google.com/presentation/d/1N1Dr9Oma1C91zbVsuKK6rESpuDE97C68/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
+
+8_hover_effect-http://127.0.0.1:5500/8_hover_effect.html
+
+ppt-https://www.canva.com/design/DAHERJpHKyU/5GMlK1HLigl2R3dmXTEdCw/edit?utm_content=DAHERJpHKyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
