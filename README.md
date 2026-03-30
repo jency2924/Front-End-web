@@ -29,3 +29,7 @@ ppt-https://docs.google.com/presentation/d/1N1Dr9Oma1C91zbVsuKK6rESpuDE97C68/edi
 8_hover_effect-http://127.0.0.1:5500/8_hover_effect.html
 
 ppt-https://www.canva.com/design/DAHERJpHKyU/5GMlK1HLigl2R3dmXTEdCw/edit?utm_content=DAHERJpHKyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+form_validate-http://127.0.0.1:5500/form_validate.html
+
+ppt-https://canva.link/pfm5l69aqp6h8qk
