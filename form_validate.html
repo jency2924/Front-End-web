@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form</title>
+<style>
+.box{width:300px;margin:50px auto;padding:20px;box-shadow:0 0 10px gray}
+input,button{width:100%;margin:6px 0;padding:6px}
+</style>
+</head>
+
+<body>
+<div class="box">
+<h3>Form</h3>
+
+<form onsubmit="return check()">
+<input id="n" placeholder="Name">
+<input id="e" placeholder="Email">
+<input id="p" placeholder="Phone">
+<button>Submit</button>
+</form>
+</div>
+
+<script>
+function check(){
+ let n=n1=document.getElementById("n").value,
+     e=document.getElementById("e").value,
+     p=document.getElementById("p").value,
+     r=/^[^\s]+@[^\s]+\.[a-z]{2,3}$/;
+
+ if(!n) return alert("Enter Name"),false;
+ if(!r.test(e)) return alert("Invalid Email"),false;
+ if(p.length!=10) return alert("Invalid Phone"),false;
+
+ alert("Success"); return true;
+}
+</script>
+</body>
+</html>
