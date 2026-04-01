@@ -33,3 +33,7 @@ ppt-https://www.canva.com/design/DAHERJpHKyU/5GMlK1HLigl2R3dmXTEdCw/edit?utm_con
 form_validate-http://127.0.0.1:5500/form_validate.html
 
 ppt-https://canva.link/pfm5l69aqp6h8qk
+
+calculator-
+
+ppt-https://canva.link/wsamt9o2xb5nmct
