@@ -37,3 +37,7 @@ ppt-https://canva.link/pfm5l69aqp6h8qk
 calculator-http://127.0.0.1:5500/calculator.html
 
 ppt-https://canva.link/wsamt9o2xb5nmct
+
+clock-http://127.0.0.1:5500/clock.html
+
+ppt-https://canva.link/l90jqmqhm1bzpl7
