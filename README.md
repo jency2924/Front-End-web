@@ -41,3 +41,7 @@ ppt-https://canva.link/wsamt9o2xb5nmct
 clock-http://127.0.0.1:5500/clock.html
 
 ppt-https://canva.link/l90jqmqhm1bzpl7
+
+to-do-list-http://127.0.0.1:5500/to-do-list.html
+
+ppt-https://docs.google.com/presentation/d/11aD5f1TMESDEwLZdV0ZQ3t1OiYliL0us/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
