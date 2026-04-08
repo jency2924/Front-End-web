@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Development Revision Map</title>
+
+<style>
+
+body{
+font-family:Arial;
+background:#f4f4f4;
+text-align:center;
+}
+
+h1{
+color:#2c3e50;
+}
+
+.container{
+width:700px;
+margin:auto;
+}
+
+.unit{
+background:white;
+margin:10px;
+padding:15px;
+box-shadow:0 0 10px gray;
+cursor:pointer;
+}
+
+.topics{
+display:none;
+text-align:left;
+margin-top:10px;
+}
+
+li{
+margin:5px 0;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Web Development Mind Map</h1>
+
+<div class="container">
+
+<div class="unit" onclick="toggle(this)">
+<h2>UNIT I: Introduction to Web Development</h2>
+
+<ul class="topics">
+<li>Web Development</li>
+<li>Client-side vs Server-side</li>
+<li>Web Page Structure</li>
+<li>HTML5</li>
+<li>Headings</li>
+<li>Paragraphs</li>
+<li>Lists</li>
+<li>Links</li>
+<li>Images</li>
+<li>Tables</li>
+<li>Forms</li>
+</ul>
+</div>
+
+
+<div class="unit" onclick="toggle(this)">
+<h2>UNIT II: Styling with CSS</h2>
+
+<ul class="topics">
+<li>Introduction to CSS</li>
+<li>Inline CSS</li>
+<li>Internal CSS</li>
+<li>External CSS</li>
+<li>Selectors</li>
+<li>Colors</li>
+<li>Fonts</li>
+<li>Box Model</li>
+<li>Margin</li>
+<li>Padding</li>
+<li>Border</li>
+<li>Flexbox</li>
+<li>Grid Layout</li>
+<li>Media Queries</li>
+<li>Responsive Design</li>
+</ul>
+</div>
+
+
+<div class="unit" onclick="toggle(this)">
+<h2>UNIT III: JavaScript Fundamentals</h2>
+
+<ul class="topics">
+<li>Introduction to JavaScript</li>
+<li>Variables</li>
+<li>Data Types</li>
+<li>Operators</li>
+<li>Conditions</li>
+<li>Loops</li>
+<li>Functions</li>
+<li>Events</li>
+<li>DOM Manipulation</li>
+<li>Form Validation</li>
+</ul>
+</div>
+
+
+<div class="unit" onclick="toggle(this)">
+<h2>UNIT IV: Web Page Structure</h2>
+
+<ul class="topics">
+<li>HTML5 Semantic Tags</li>
+<li>Site Navigation</li>
+<li>Accessibility</li>
+<li>Link CSS to HTML</li>
+<li>Link JavaScript to HTML</li>
+<li>Debugging</li>
+<li>Console Logging</li>
+<li>File Structure</li>
+<li>Project Organization</li>
+</ul>
+</div>
+
+
+<div class="unit" onclick="toggle(this)">
+<h2>UNIT V: Mini Project & Deployment</h2>
+
+<ul class="topics">
+<li>Build Static Website</li>
+<li>Flexbox / Grid Layout</li>
+<li>GitHub Pages Hosting</li>
+<li>Netlify Hosting</li>
+<li>Vercel Hosting</li>
+<li>Version Control</li>
+<li>Git Basics</li>
+<li>Website Testing</li>
+<li>Website Improvement</li>
+</ul>
+</div>
+
+</div>
+
+
+<script>
+
+function toggle(element){
+
+let topics = element.querySelector(".topics")
+
+if(topics.style.display === "block"){
+topics.style.display = "none"
+}
+else{
+topics.style.display = "block"
+}
+
+}
+
+</script>
+
+</body>
+</html>
