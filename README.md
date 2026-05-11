@@ -47,3 +47,7 @@ to-do-list-http://127.0.0.1:5500/to-do-list.html
 ppt-https://docs.google.com/presentation/d/11aD5f1TMESDEwLZdV0ZQ3t1OiYliL0us/edit?usp=drive_link&ouid=106206806310190138185&rtpof=true&sd=true
 
 mind-map-http://127.0.0.1:5500/mind_map.html
+
+ppt-https://canva.link/vx45vdgtz9tvgag
+
+events-file:///D:/Frented/pro_6_events.html
